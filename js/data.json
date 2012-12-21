@@ -1,0 +1,40 @@
+{
+    "projects": [
+        "a binary tree structure",
+        "a basic database",
+        "a sudoku solver",
+        "a network echo server",
+        "a fractal generator",
+        "an interpreter",
+        "a compiler",
+        "a virtual machine"
+    ],
+    "languages": [
+        "C",
+        "C++",
+        "Javascript",
+        "Ruby",
+        "Scala",
+        "Python",
+        "Haskell",
+        "D",
+        "Clojure",
+        "Erlang",
+        "Go",
+        "Java"
+    ],
+    "modifiers": [
+        "with immutable state",
+        "with recursion",
+        "in under 4K of code",
+        "in under 200 lines of code"
+    ],
+    "buttontexts": [
+        "eeerr, no thanks",
+        "try it again",
+        "I don't think so...",
+        "hows about another one",
+        "eehhh, show me something else",
+        "naaahh"
+    ]
+}
