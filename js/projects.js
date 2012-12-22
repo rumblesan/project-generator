@@ -40,7 +40,7 @@
 
     onDomReady(function () {
 
-        microAjax("/js/data.json", function (json) {
+        microAjax("js/data.json", function (json) {
             data = eval('(' + json + ')');
             display();
         });
