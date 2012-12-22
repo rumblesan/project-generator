@@ -1,12 +1,23 @@
 {
     "projects": [
         "a binary tree structure",
+        "a edge detection image processing program",
         "a basic database",
+        "a synthesizer",
         "a sudoku solver",
         "a network echo server",
+        "a cellular-automata simulator",
         "a fractal generator",
+        "a game-of-life simulator",
         "an interpreter",
+        "a scheme interpreter",
+        "a tracker",
+        "a calculator",
+        "a markov-chain text generator",
+        "a raytracer",
         "a compiler",
+        "a text only adventure game",
+        "a pig-latin translator",
         "a virtual machine"
     ],
     "languages": [
